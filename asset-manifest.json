@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/audio-player/static/css/main.8455d098.css",
+    "main.js": "/audio-player/static/js/main.31954fed.js",
+    "static/media/04 Sunday morning.mp3": "/audio-player/static/media/04 Sunday morning.29450f17eec0d446eaa9.mp3",
+    "static/media/08 The Lonely Mermaid.mp3": "/audio-player/static/media/08 The Lonely Mermaid.db2b16f6a6c3754c1d54.mp3",
+    "static/media/05 In the valley of the kings.mp3": "/audio-player/static/media/05 In the valley of the kings.349352db798d9835868a.mp3",
+    "static/media/07 Ntima.mp3": "/audio-player/static/media/07 Ntima.2dbc205cf2a088e171ab.mp3",
+    "static/media/01 My Alter Echo.mp3": "/audio-player/static/media/01 My Alter Echo.6b6317d9c21c2fb48b38.mp3",
+    "static/media/02 Misfit love.mp3": "/audio-player/static/media/02 Misfit love.aa5c6ecbfbd9df5a2f31.mp3",
+    "static/media/fa-solid-900.ttf": "/audio-player/static/media/fa-solid-900.79da213423ac0def2058.ttf",
+    "static/media/fa-brands-400.ttf": "/audio-player/static/media/fa-brands-400.0a1b701f5563c2288281.ttf",
+    "static/media/fa-solid-900.woff2": "/audio-player/static/media/fa-solid-900.4896d4b04430cc3dfb06.woff2",
+    "static/media/fa-brands-400.woff2": "/audio-player/static/media/fa-brands-400.f77bcc98bb7468c8b15a.woff2",
+    "static/media/fa-regular-400.ttf": "/audio-player/static/media/fa-regular-400.15d98c18221c8bcb2334.ttf",
+    "static/media/cover_front_kobutsune_geishaNun_mini.webp": "/audio-player/static/media/cover_front_kobutsune_geishaNun_mini.52bfa32ef657c76cbe95.webp",
+    "static/media/fa-regular-400.woff2": "/audio-player/static/media/fa-regular-400.d79c2ec96ab9ff1161a2.woff2",
+    "static/media/logo_K_32x32.webp": "/audio-player/static/media/logo_K_32x32.551caa49447324e7179a.webp",
+    "index.html": "/audio-player/index.html",
+    "main.8455d098.css.map": "/audio-player/static/css/main.8455d098.css.map",
+    "main.31954fed.js.map": "/audio-player/static/js/main.31954fed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8455d098.css",
+    "static/js/main.31954fed.js"
+  ]
+}
